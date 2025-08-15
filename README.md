@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🔍 Skilled in SQL, Python, BigQuery, Looker Studio, GA4, and GCP<br><br>⚡ Exploring Apache Spark, Airflow, and Salesforce Development<br><br>📊 Experienced in analytics engineering, dashboard building, and data transformation<br><br>🎯 Passionate about automation, clean code, and impactful visualizations<br><br>🎮 Gamer at heart — Stardew Valley & Terraria are my cozy escapes</p>
+<p align="left">🔍 Skilled in SQL, Python, BigQuery, Looker Studio, GA4, and GCP<br><br>⚡ Exploring Machine Learning, Apache Spark, and Salesforce Development<br><br>📊 Experienced in analytics engineering, dashboard building, and data transformation<br><br>🎯 Passionate about automation, clean code, and impactful visualizations<br><br>🎮 Gamer at heart — Stardew Valley & Terraria are my cozy escapes</p>
 
 ###
 
